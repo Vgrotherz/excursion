@@ -1,0 +1,42 @@
+body {
+    font-family: 'Verdana';
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+footer h1 {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+body a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.video {
+    margin-top: 1rem;
+}
+
+.second-headline h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.second-headline p {
+    font-size: 21px;
+    color: grey;
+}
+
+.second-headline img {
+    margin-top: 1rem;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+    font-size: 1.3rem;
+}
